@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Library>
+	<name>Naroden</name>
+	<city>Pernik</city>
+	<dateBuild>1890</dateBuild>
+	<book>
+		<name>A</name>
+		<Author>
+			<fname>Martin</fname>
+			<middle>Vladimirov</middle>
+			<lname>Dimitrov</lname>
+		</Author>
+		<date>1</date>
+	</book>
+
+	<book>
+		<name>Q</name>
+		<Author>			
+			<fname>Martin1</fname>
+			<middle>hle</middle>
+			<lname>Dimitrov1</lname>
+		</Author>
+		<date>233</date>
+	</book>
+	
+	<book>
+		<name>Q</name>
+		<Author>no_Name</Author>
+		<date>233</date>
+	</book>
+	
+	<free>YEs</free>
+</Library>
