@@ -1,7 +1,14 @@
 # Converter-XML-Excel
 
-The converter is fully written in JAVA and uses JFrame for the UI. It contains a runnable executable.
-It uses SAX and STaX as parsers. 
-Converts XML -> EXCEL and EXCEL -> XML. 
+Converts:  
+**XML -> EXCEL**  
+**EXCEL -> XML**  
+  
+The converter is fully written in JAVA.  
+**JFrame** for the UI.  
+It uses **SAX** and **STaX** as parsers. 
+It contains a runnable executable.
 
-Including libraries: Apache- poi and SAX
+Including libraries: 
+**Apache-poi**
+**SAX**
